@@ -32,7 +32,6 @@ More about it in the [features section](#application-features).
 
 Of course that we included all the small nuances Airbnb has. You are not supposed to find any differences! 
 
-You are more than welcome to ***check it out*** ( [right here](https://airbnb-rktw.onrender.com/ "Github pages link"))
 
 ## Technologies
 
@@ -105,10 +104,6 @@ In our app users can choose their favorite language!
 
 ![I18n Translate](src/assets/img/readme/stay-translate.png "I18n Translate")
 
-### About us
-And finally we designed a page for you with a little information about us 😉
-
-![About us](src/assets/img/readme/about-us.png "about-us")
 
 
 ### Some mobile!
@@ -116,8 +111,4 @@ Just a taste of the mobile experience. We used different **mixins**, **condition
 The layout we have built from the very first moment enabled us to make the website responsive without a lot of effort.
 
 <img src="src/assets/img/readme/stay-mobile1.png" width="33%" style="float: left"/><img src="src/assets/img/readme/stay-mobile2.png" width="33%" style="float: left;"/><img src="src/assets/img/readme/stay-mobile3.png" width="33%" style="float: left;"/>
-
-### Authors
- - [Idan David](https://github.com/idandavid1)
- - [Ofer Gavrilov](https://github.com/oferGavrilov)
 
