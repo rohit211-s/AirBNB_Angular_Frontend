@@ -6,7 +6,6 @@ Welcome to this Airbnb clone built with Angular, TypeScript, Rxjs, and SCSS. Thi
 
 ![Main Stay image](src/assets/img/readme/stay-index.png "Stay-main-page")
 
-[Link to backend repository](https://github.com/oferGavrilov/AirBNB-backend "backend repository").
 ___
 
 ### Table of Contents
