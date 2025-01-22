@@ -2,11 +2,7 @@
 # Airbnb - pixel perfect, E2E clone of Airbnb (Angular + Node.js)
 
 Welcome to this Airbnb clone built with Angular, TypeScript, Rxjs, and SCSS. This project is designed to mimic some of the functionalities of Airbnb.com such as search for specific locations, filter search results according to user preferences, select dates for check-in and check-out and view accommodation details, become a host and post stays and get notification in live with Socket.io.
-[Here is my project link](https://airbnb-rktw.onrender.com/ "Airbnb link").
 
-For those of you who are already familiar with Airbnb, we added some interesting and unique features - [features](#application-features).
-If you are not familiar with the App, read about it [here](#airbnb-description).
-And, if you are tired and just want to see some images of the website, [scroll to the bottom...](#showcase)
 
 ![Main Stay image](src/assets/img/readme/stay-index.png "Stay-main-page")
 
